@@ -1,5 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-
+### NAME: KOUSALYA A.
+### DATE: 27/04/2024
+### REG NO: 212222230068
+### DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -37,37 +40,17 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
+![Uploading image.png…]()
 
 DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
+![Uploading image.png…]()
 
 ### Robot movements 
 
+![Uploading image.png…]()
 
-
-
-
-
-
-
-
-
-
-
-
+![Uploading image.png…]()
 
 ### Results:  
+Thus linear and joint interpolation of industrial manipulator is studied and understood.
+
